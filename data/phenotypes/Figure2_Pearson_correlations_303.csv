@@ -1,0 +1,65 @@
+Trait_1,Trait_2,Pearson_r
+Plant height,Plant height,1
+Peduncle length,Plant height,0.710576868274177
+Leaf length,Plant height,0.233783336689736
+Spike number,Plant height,-0.0922872838174835
+Spike length,Plant height,0.487769968066612
+Spikelet number,Plant height,0.386482118560566
+Plant height with spike,Plant height,0.997840001007752
+Awn,Plant height,0.0983852080308245
+Plant height,Peduncle length,0.710576868274177
+Peduncle length,Peduncle length,1
+Leaf length,Peduncle length,0.205235945924837
+Spike number,Peduncle length,-0.117506964370899
+Spike length,Peduncle length,0.410825713479869
+Spikelet number,Peduncle length,0.339794691165467
+Plant height with spike,Peduncle length,0.713875156485845
+Awn,Peduncle length,-0.0209625280268484
+Plant height,Leaf length,0.233783336689736
+Peduncle length,Leaf length,0.205235945924837
+Leaf length,Leaf length,1
+Spike number,Leaf length,-0.20307699420855
+Spike length,Leaf length,0.135020194160186
+Spikelet number,Leaf length,0.258562097738792
+Plant height with spike,Leaf length,0.234857690367558
+Awn,Leaf length,-0.0768699727208409
+Plant height,Spike number,-0.0922872838174835
+Peduncle length,Spike number,-0.117506964370899
+Leaf length,Spike number,-0.20307699420855
+Spike number,Spike number,1
+Spike length,Spike number,-0.173349548991064
+Spikelet number,Spike number,-0.31373442253827
+Plant height with spike,Spike number,-0.101745125445827
+Awn,Spike number,0.161207678599645
+Plant height,Spike length,0.487769968066612
+Peduncle length,Spike length,0.410825713479869
+Leaf length,Spike length,0.135020194160186
+Spike number,Spike length,-0.173349548991064
+Spike length,Spike length,1
+Spikelet number,Spike length,0.484509599979062
+Plant height with spike,Spike length,0.544062967578181
+Awn,Spike length,-0.043847667610536
+Plant height,Spikelet number,0.386482118560566
+Peduncle length,Spikelet number,0.339794691165467
+Leaf length,Spikelet number,0.258562097738792
+Spike number,Spikelet number,-0.31373442253827
+Spike length,Spikelet number,0.484509599979062
+Spikelet number,Spikelet number,1
+Plant height with spike,Spikelet number,0.40792096932877
+Awn,Spikelet number,-0.25730008775314
+Plant height,Plant height with spike,0.997840001007752
+Peduncle length,Plant height with spike,0.713875156485845
+Leaf length,Plant height with spike,0.234857690367558
+Spike number,Plant height with spike,-0.101745125445827
+Spike length,Plant height with spike,0.544062967578181
+Spikelet number,Plant height with spike,0.40792096932877
+Plant height with spike,Plant height with spike,1
+Awn,Plant height with spike,0.0912619571878614
+Plant height,Awn,0.0983852080308245
+Peduncle length,Awn,-0.0209625280268484
+Leaf length,Awn,-0.0768699727208409
+Spike number,Awn,0.161207678599645
+Spike length,Awn,-0.043847667610536
+Spikelet number,Awn,-0.25730008775314
+Plant height with spike,Awn,0.0912619571878614
+Awn,Awn,1

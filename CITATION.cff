@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software release."
+title: "Data and R scripts for GWAS of morphological traits in bread wheat"
+type: software
+authors:
+  - family-names: Shan
+    given-names: Yixiang
+repository-code: "https://github.com/YixiangShan/GWAS_BreadWheat"
+url: "https://github.com/YixiangShan/GWAS_BreadWheat"
+version: 1.0.0
+date-released: 2026-10-09
+license: MIT
+keywords:
+  - bread wheat
+  - GWAS
+  - GAPIT
+  - minor allele frequency
+  - associative transcriptomics
+  - population structure
